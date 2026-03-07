@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SINGULARIDAD — Landing Page
 
 Agencia de Inteligencia Artificial · singularidad.net.ar
@@ -74,3 +75,6 @@ Editar `components/ChatbotPlaceholder.tsx`:
 2. Ingresar: `singularidad.net.ar`
 3. Agregar registro CNAME en tu DNS: `www → cname.vercel-dns.com`
 4. Para el apex domain, agregar A record: `76.76.21.21`
+=======
+# singularidad-site
+>>>>>>> 01d43042469c97273cd62f5d70f9ac411f37adbc
