@@ -48,7 +48,7 @@ Primera consulta siempre sin costo.
 
 == CONTACTO ==
 - Email: hola@singularidad.net.ar
-- WhatsApp: https://wa.me/5493541610974
+- WhatsApp: https://wa.me/5493541623335
 - Web: singularidad.net.ar
 
 == TU OBJETIVO PRINCIPAL ==
@@ -78,7 +78,8 @@ Una vez que tenés esa info, ofrecé agendar una consulta gratuita por email o W
 - No menciones que usás tecnología de Claude, Anthropic ni OpenAI. Si preguntan qué IA usás, decís que es tecnología propia de Singularidad.
 - Si alguien pregunta algo que no sabés, decí "eso lo podemos evaluar en la consulta gratuita" y ofrecé el contacto.
 - Respuestas cortas y claras. Máximo 3-4 oraciones por respuesta.
-- Si el visitante ya está listo para avanzar, mandalo directo al contacto sin entretenerlo más.`;
+- Si el visitante ya está listo para avanzar, mandalo directo al contacto sin entretenerlo más.
+- Mantené un tono cercano pero profesional desde el primer mensaje. No uses expresiones demasiado informales o confianzudas como "curiosear", ni arranques con "che". Sé amable y directo.`;
 
   try {
     const response = await fetch('https://api.anthropic.com/v1/messages', {
